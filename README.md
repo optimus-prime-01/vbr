@@ -46,3 +46,16 @@ This project is a User and Role Management System built using the MERN (MongoDB,
 
 1. Navigate to the `backend` directory:
 
+## Getting Started
+
+After completing the setup instructions for both backend and frontend, follow these steps to start the project:
+
+### Running the Application
+
+1. Start MongoDB (if not already running)
+
+2. Start the backend server:
+   Open a terminal, navigate to the backend directory, and run:
+   ```bash
+   cd backend
+   npm start
