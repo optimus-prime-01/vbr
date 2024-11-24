@@ -58,4 +58,12 @@ After completing the setup instructions for both backend and frontend, follow th
    Open a terminal, navigate to the backend directory, and run:
    ```bash
    cd backend
+   npm i
    npm start
+
+2. Start the frontend:
+   Open a terminal, navigate to the frontend directory, and run:
+   ```bash
+   cd frontend
+   npm i
+   npm run dev
